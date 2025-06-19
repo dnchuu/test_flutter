@@ -31,7 +31,7 @@ class _GoogleLoginPageState extends State<GoogleLoginPage> {
   final GoogleSignIn googleSignIn = GoogleSignIn(
      scopes: ['email'],
   // 👇 서버에서 발급한 Web 클라이언트 ID (NOT Android)
-  serverClientId: '89175371007-mq9vpmtievo211kroggf297tc2cjkkkd.apps.googleusercontent.com',
+  serverClientId: '89175371007-e73qk8la15vus68ekpjsvi7kbmrkq4es.apps.googleusercontent.com',
   );
 
   Future<void> _handleSignIn() async {
