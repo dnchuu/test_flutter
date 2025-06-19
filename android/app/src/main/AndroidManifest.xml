@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.google_login_app">
     <application
         android:label="google_login_app"
         android:name="${applicationName}"
